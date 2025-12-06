@@ -28,3 +28,6 @@ NG例
 ・蜜結合（他のページの遷移が含まれている）
 
 テストはコンテキスト次第
+
+## Karate+Database RiderによるAPI自動テスト導入工数をCline＋GitLab MCPを使って2割削減を目指す！ / 髙橋一生さん
+Cline+GitLab MCPの導入
